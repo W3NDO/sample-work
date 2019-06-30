@@ -6,7 +6,7 @@ def subtract(a,b):
     return a-b
 
 def multiplication(x,y,z):
-    return x*y*a
+    return x*y*z
 
 def division(x,y):
     return x/y
